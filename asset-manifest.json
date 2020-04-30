@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.f8939764.chunk.js",
-    "main.js.map": "/static/js/main.f8939764.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f2e9d414.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f2e9d414.js.map",
-    "static/css/2.87d4210f.chunk.css": "/static/css/2.87d4210f.chunk.css",
-    "static/js/2.e6016f38.chunk.js": "/static/js/2.e6016f38.chunk.js",
-    "static/js/2.e6016f38.chunk.js.map": "/static/js/2.e6016f38.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f3bcbd94fe0e250a31f002281be87ec0.js": "/precache-manifest.f3bcbd94fe0e250a31f002281be87ec0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.87d4210f.chunk.css.map": "/static/css/2.87d4210f.chunk.css.map",
-    "static/js/2.e6016f38.chunk.js.LICENSE.txt": "/static/js/2.e6016f38.chunk.js.LICENSE.txt"
+    "main.js": "/trivia-game/static/js/main.f4640f6e.chunk.js",
+    "main.js.map": "/trivia-game/static/js/main.f4640f6e.chunk.js.map",
+    "runtime-main.js": "/trivia-game/static/js/runtime-main.a315b3d2.js",
+    "runtime-main.js.map": "/trivia-game/static/js/runtime-main.a315b3d2.js.map",
+    "static/css/2.87d4210f.chunk.css": "/trivia-game/static/css/2.87d4210f.chunk.css",
+    "static/js/2.e6016f38.chunk.js": "/trivia-game/static/js/2.e6016f38.chunk.js",
+    "static/js/2.e6016f38.chunk.js.map": "/trivia-game/static/js/2.e6016f38.chunk.js.map",
+    "index.html": "/trivia-game/index.html",
+    "precache-manifest.04033488d894c69ef5bb8cb0b7236dff.js": "/trivia-game/precache-manifest.04033488d894c69ef5bb8cb0b7236dff.js",
+    "service-worker.js": "/trivia-game/service-worker.js",
+    "static/css/2.87d4210f.chunk.css.map": "/trivia-game/static/css/2.87d4210f.chunk.css.map",
+    "static/js/2.e6016f38.chunk.js.LICENSE.txt": "/trivia-game/static/js/2.e6016f38.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2e9d414.js",
+    "static/js/runtime-main.a315b3d2.js",
     "static/css/2.87d4210f.chunk.css",
     "static/js/2.e6016f38.chunk.js",
-    "static/js/main.f8939764.chunk.js"
+    "static/js/main.f4640f6e.chunk.js"
   ]
 }
