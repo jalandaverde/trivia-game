@@ -20,7 +20,7 @@
     "graphql": "^15.0.0",
     "graphql-anywhere": "^4.2.6",
     "graphql-tag": "^2.10.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mousetrap": "^1.6.5",
     "nes.css": "^2.3.0",
     "qs": "^6.9.1",
